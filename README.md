@@ -1,0 +1,2 @@
+# journey
+my first repository 
